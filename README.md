@@ -1,1 +1,1 @@
-Zappy is a Flutter mobile app that has collection of different cuisines and food recipes.
+Zappy is a mobile app built with Flutter that provides a variety of food recipes and cuisines. It offers a collection of different recipes from various cuisines for users to explore. With Zappy, users can access food recipes on their mobile devices.
